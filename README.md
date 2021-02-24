@@ -8,7 +8,7 @@
 - Zoom Levels: Max Zoom - 14; Min Zoom - 10
 
 ## Tile 2 - Map Data (911-Fire Calls, Seattle)
-![Map Image](img/911calldata.JPG)
+![Map Image](img/911Calldata.JPG)
 
 - Description of Tile: Data layer showing the location of 911 calls made to the Seattle fire department from January 2020 to February 2021.
 - Geographic Area of Focus: Seattle Washington and neighboring cities 
